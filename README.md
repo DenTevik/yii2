@@ -1,8 +1,5 @@
 <p align="center">
-  <a href="https://anira-web.ru/" target="_blank">
-    <img src="test" width="300px">
-  </a>
-  <h1 align="center">Yii 2 Rest Project + Catalog with recursion</h1>
+  <a href="https://anira-web.ru/" target="_blank"><h1 align="center">Yii 2 Rest Project + Catalog with recursion</h1></a>
   <br>
 </p>
 
