@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://anira-web.ru/" target="_blank">
-    <img src="https://avatars0.githubusercontent.com/u/993323" width="200px">
+    <img src="test" width="300px">
   </a>
   <h1 align="center">Yii 2 Rest Project + Catalog with recursion</h1>
   <br>
