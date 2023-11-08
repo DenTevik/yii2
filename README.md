@@ -5,7 +5,7 @@
 
 <div class="site-about">
   <ul>
-    <li><b>Запустить в терминале встроенный http сервер (если сайт не открывается)</b>: nohup php /var/www/html/yii serve 127.0.0.1 -p 80 -t /var/www/html/web &
+    <li><b>Запустить в терминале встроенный http сервер (если сайт не открывается)</b>: nohup php /var/www/html/yii serve 127.0.0.1 -p 8080 -t /var/www/html/web &
     </li>
     <li><b>Остановить встроенный http сервер</b>: kill -9 `ps -ef | grep php | grep -v grep | awk '{print $2}'`</li>
     <li><b>Авторизация реализована через Bearer токен</b>: 101-token</li>
